@@ -1,5 +1,7 @@
 # Bullet Ballet
 Bullet Ballet - это игра, 2D шутер с видом сверху с противостоянием 2 игроков. За определённое время нужно набрать как можно больше очков. Сражайтесь, набирайте очки, ставьте рекорды и становитесь победителем!
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/7122eab6-709c-49ff-ac65-1be138e0a79f)
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/d8309bf4-f167-4e13-af56-954341a201bb)
 ## Описание
 + В игре представлен один режим игры противостояние, в котором два игрока стреляя по друг другу зарабатывают очки
 + В конце матча, кто набрал больше очков побеждает, может получиться и ничья
@@ -49,3 +51,8 @@ PS: Перенос и добавление статистики происход
 2. Открыть в Visual Studio файл проекта: **Game\BulletBallet.sln**
 3. Открыть в Visual Studio C++ файл: **BulletBallet.cpp** с помощью обозревателя решений
 4. Запусить файл: **BulletBallet.cpp**
+
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/2574db06-ff35-4008-a10f-258eb2e0ec0b)
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/1c418912-dc9a-4a3b-a8fb-394c3543931b)
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/f583874c-e652-425f-8875-e8d1b5d16cce)
+
