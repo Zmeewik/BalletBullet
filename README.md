@@ -52,5 +52,7 @@ PS: Перенос и добавление статистики происход
 ## Установка
 1. Скачать и распаковать архив **Bullet Ballet.rar** в отдельную папку
 2. Открыть в Visual Studio файл проекта: **Game\BulletBallet.sln**
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/da021d3c-6203-4947-812a-eee7b3170482)
 3. Открыть в Visual Studio C++ файл: **BulletBallet.cpp** с помощью обозревателя решений
+![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/e6661438-2cc6-45f4-9026-b68e45cbca18)
 4. Запусить файл: **BulletBallet.cpp**
