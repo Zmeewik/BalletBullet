@@ -54,8 +54,3 @@ PS: Перенос и добавление статистики происход
 2. Открыть в Visual Studio файл проекта: **Game\BulletBallet.sln**
 3. Открыть в Visual Studio C++ файл: **BulletBallet.cpp** с помощью обозревателя решений
 4. Запусить файл: **BulletBallet.cpp**
-
-![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/2574db06-ff35-4008-a10f-258eb2e0ec0b)
-![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/1c418912-dc9a-4a3b-a8fb-394c3543931b)
-![image](https://github.com/Zmeewik/BalletBullet/assets/74759106/f583874c-e652-425f-8875-e8d1b5d16cce)
-
